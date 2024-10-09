@@ -1,0 +1,17 @@
+
+header{
+    
+    width: 1320px;
+    height: 600px;
+    color: white;   
+    padding: 177px 484px 177px 484px; 
+    background-repeat: no-repeat; 
+}
+.new-year-subtitle{
+    font-size: 32px;
+    text-align: center;
+}
+.new-year-title{
+    font-size: 72px;
+    text-align: center;
+}
